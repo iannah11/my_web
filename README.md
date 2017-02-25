@@ -7,13 +7,13 @@ Welcome to my world of wonder!!!
 
 ### everything is awesome!!!!!
 
-everthing is cool when you're put of a team!
+everthing is cool when you're part of a team!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Let's build like Emmet
+## now you can be a master builder!
 ### Header 3
 
 - Bulleted
